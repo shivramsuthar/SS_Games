@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `yarn start`
+![tic-tac-toe](https://user-images.githubusercontent.com/70919558/95261912-d5a59c00-0848-11eb-9a2b-db6356f3f06b.gif)
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
